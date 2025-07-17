@@ -22,8 +22,11 @@
 - Created a new domain to support **flight booking services**.
 - Enhanced event-driven architecture:
   - Transitioned to **multiple active consumers** for better scalability.
-  - Applied **topic-based architecture** for event categorization and efficiency.
-
+  - Applied **topic-based architecture** for event categorization and efficiency.  
+- Implemented **Logging** and **Tracing** for better debugging and monitoring :
+  - captured **HTTP requests** from the API gateway.
+  - captured **Event Driven Messages** from the Message Broker.
+  - join all the logs into make a **Journey Transaction**.
 ---
 
 ### **Backend Developer**  
@@ -43,7 +46,7 @@
 **PT Indonesia Indicator** — Jakarta  
 **Nov 2017 – Jan 2020**
 
-- Scraped data from **news sites, trending topics**, and **e-commerce platforms**.
+- Scraped data from **news sites, Social Media**, and **trending topics**, and **e-commerce platforms**.
 - Built **RESTful APIs** for app-backend communication.
 
 ---
@@ -52,9 +55,9 @@
 
 | Category         | Tools/Technologies                        |
 |------------------|-------------------------------------------|
-| Languages        | Golang, PHP, NodeJS, Python, Bash         |
-| Databases        | MySQL, PostgreSQL                         |
-| Message Brokers  | RabbitMQ                                  |
+| Languages        | Golang, PHP, Rust, Python, Bash |
+| Databases        | MySQL, PostgreSQL, MongoDB |
+| Message Brokers  | RabbitMQ, Kafka, Beanstalk |
 | Caching          | Redis                                     |
 | Search Engine    | Elasticsearch                             |
 | API Gateway      | Kong                                      |
