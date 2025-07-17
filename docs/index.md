@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yudi Yana 
-**Senior Backend Engineer** | Event-Driven Systems | API & Microservices Specialist  
+**Senior Backend Engineer** | Event-Driven Systems | API & Microservices
 
 📍 Jakarta, Indonesia | 📧 yudhiana99@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yudi-yana)  
 
@@ -7,8 +7,8 @@
 
 ## 🛠️ Technical Stack  
 **Languages**: Golang, PHP, Node.js, Python, Bash  
-**Databases**: MySQL, PostgreSQL, Elasticsearch, Redis  
-**Event-Driven**: RabbitMQ, Kafka, Topic-Based Architecture  
+**Databases**: MySQL, PostgreSQL, Elasticsearch, Redis  , MongoDB
+**Event-Driven**: RabbitMQ, Kafka, Beanstalk
 **APIs/DevOps**: RESTful APIs, Kong API Gateway, Linux/Unix, Cron  
 **Financial Systems**: OTP Security, Tax Automation, Platform Fees  
 
@@ -35,7 +35,7 @@
 ---
 
 ## 📈 Career Highlights  
-- **PT Brillant Ecommerce** (Dec 2020 – Present): Scaled backend systems for fintech/e-commerce.  
+- **PT Brillant Ecommerce** (Dec 2020 – Present): Scaled backend systems for e-commerce.  
 - **PT Indo Fin Tek** (Feb 2020 – Nov 2020): Built regulatory APIs for OJK/AFPI integrations.  
 - **PT Indonesia Indicator** (Nov 2017 – Jan 2020): Developed data scraping tools and REST APIs.  
 
@@ -50,8 +50,8 @@ I write about backend engineering:
 ---
 
 ## 📫 Let’s Connect!  
-- **GitHub**: [@yourusername](https://github.com/yourusername)  
+- **GitHub**: [@yudhiana](https://github.com/yudhiana)  
 - **LinkedIn**: [Yudi Yana](https://linkedin.com/in/yudi-yana)  
 - **Email**: yudhiana99@gmail.com  
 
-> Open to collaborations on scalable backend systems and fintech projects!  
+> Open to collaborations on scalable backend systems!  
