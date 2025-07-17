@@ -1,57 +1,74 @@
-# 👋 Hi, I'm Yudi Yana 
-**Senior Backend Engineer** | Event-Driven Systems | API & Microservices
+# Yudi Yana
 
-📍 Jakarta, Indonesia | 📧 yudhiana99@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yudi-yana)  
-
----
-
-## 🛠️ Technical Stack  
-**Languages**: Golang, PHP,Python, Rust, Bash, Shell Scripts
-**Databases**: MySQL, PostgreSQL, Elasticsearch, Redis, MongoDB
-**Event-Driven**: RabbitMQ, Kafka, Beanstalk
-**APIs/DevOps**: RESTful APIs, GraphQL, Kong API Gateway, Linux/Unix, Cron  
-**Financial Systems**: OTP Security, Tax Automation, Platform Fees, Payments
+**Senior Software Engineer (Backend)**  
+📍 Bekasi, Indonesia  
+📧 [yudhiana99@gmail.com](mailto:yudhiana99@gmail.com)  
+📞 +62 812 9050 7760  
+🔗 [LinkedIn: yudi-yana](https://linkedin.com/in/yudi-yana)
 
 ---
 
-## 💼 Key Projects  
+## 👨‍💻 Work Experience
 
-### 🏦 Financial Platform Features *(PT Brililant Ecommerce Berjaya)*  
-- **OTP for Balance Withdrawal**  
-  - Implemented secure OTP validation using Redis (reduced fraud by 30%).  
-- **Tax & Platform Fee Automation**  
-  - Automated tax calculations for transactions, saving 200+ manual hours/month.  
-- **Company Document Management**  
-  - Built a document upload/verification system with Elasticsearch indexing.  
-b
-### ✈️ Flight Booking Microservice *(New Domain Launch)*  
-- Designed a Golang-based service integrated with Kong API Gateway.  
-- Handled 10K+ RPM at launch.  
+### **Senior Software Engineer (Backend)**  
+**PT Briliant Ecommerce Berjaya** — Jakarta  
+**Dec 2020 – Present**
 
-### 🔄 Event-Driven Optimization  
-- Migrated from single to multiple active consumers (4x throughput boost).  
-- Implemented topic-based architecture for better event organization.  
+- Implemented **OTP feature** for secure balance withdrawal.
+- Introduced **platform fee** mechanism for transaction-based revenue.
+- Built **automated tax** calculation and collection feature.
+- Developed **company document management** for uploading and verifying business docs.
+- Added **local product flagging** to highlight domestic goods.
+- Created a new domain to support **flight booking services**.
+- Enhanced event-driven architecture:
+  - Transitioned to **multiple active consumers** for better scalability.
+  - Applied **topic-based architecture** for event categorization and efficiency.
 
 ---
 
-## 📈 Career Highlights  
-- **PT Brillant Ecommerce Berjaya (Mbizmarket)** (Dec 2020 – Present): Scaled backend systems for e-commerce.  
-- **PT Indo Fin Tek (Dompet Kilat)** (Feb 2020 – Nov 2020): Built regulatory APIs for OJK/AFPI integrations.  
-- **PT Indonesia Indicator (Ebdesk)** (Nov 2017 – Jan 2020): Developed data scraping tools and REST APIs.  
+### **Backend Developer**  
+**PT Indo Fin Tek** — Jakarta  
+**Feb 2020 – Nov 2020**
+
+- Developed APIs for integration with:
+  - **AFPI** (Asosiasi Fintech Pendanaan Bersama Indonesia)
+  - **OJK** (Otoritas Jasa Keuangan)
+- Migrated databases to improve performance and scalability.
+- Maintained integrations with various **third-party APIs**.
+- Built a system to **monitor application performance** in real-time.
 
 ---
 
-## 📝 Blog & Open Source  
-I write about backend engineering:  
-- [How I Scaled Event-Driven Payments with RabbitMQ](https://dev.to/yourusername)  
-- [Secure OTP Implementation Best Practices](https://dev.to/yourusername)  
-- Contributed to [Open-Source Project X] (link your PRs/issues).  
+### **Backend Programmer**  
+**PT Indonesia Indicator** — Jakarta  
+**Nov 2017 – Jan 2020**
+
+- Scraped data from **news sites, trending topics**, and **e-commerce platforms**.
+- Built **RESTful APIs** for app-backend communication.
 
 ---
 
-## 📫 Let’s Connect!  
-- **GitHub**: [@yudhiana](https://github.com/yudhiana)  
-- **LinkedIn**: [Yudi Yana](https://linkedin.com/in/yudi-yana)  
-- **Email**: yudhiana99@gmail.com  
+## 🛠 Tech Stack
 
-> Open to collaborations on scalable backend systems!  
+**Languages:** Golang, PHP, Rust, Python, Bash, Shell Script
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Message Brokers:** RabbitMQ, Kafka, Beanstalk  
+**Caching:** Redis
+**Search Engine:** Elasticsearch  
+**API Gateway:** Kong  
+**Other:** Linux/Unix, Cron Jobs
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information Technology**  
+Indraprasta PGRI University, 2013 – 2017
+
+---
+
+## 🏠 Address
+
+Darmawangsa Residence, Cluster Sriwijaya Blok SA-3 No 41  
+Bekasi 17510, Indonesia
+
