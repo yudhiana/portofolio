@@ -27,6 +27,7 @@
   - captured **HTTP requests** from the API gateway.
   - captured **Event Driven Messages** from the Message Broker.
   - join all the logs into make a **Journey Transaction**.
+  
 ---
 
 ### **Backend Developer**  
