@@ -8,75 +8,81 @@
 
 ---
 
+## 👤 Bio
+
+Senior Backend Engineer with over **6 years of experience** in building and maintaining scalable backend systems across **fintech**, **e-commerce**, and **data analytics** sectors. Specialized in developing secure APIs, integrating with government and third-party systems, and enhancing event-driven architectures. Adept in system observability through logging and tracing, and passionate about clean, maintainable backend architecture. Strong proficiency in **Golang**, **PostgreSQL**, **RabbitMQ**, and other distributed systems tools. Based in Bekasi, Indonesia.
+
+---
+
 ## 👨‍💻 Work Experience
 
 ### **Senior Software Engineer (Backend)**  
 **PT Briliant Ecommerce Berjaya** — Jakarta  
-**Dec 2020 – Present**
+📅 *Dec 2020 – Present*
 
-- Implemented **OTP feature** for secure balance withdrawal.
-- Introduced **platform fee** mechanism for transaction-based revenue.
-- Built **automated tax** calculation and collection feature.
-- Developed **company document management** for uploading and verifying business docs.
-- Added **local product flagging** to highlight domestic goods.
-- Created a new domain to support **flight booking services**.
-- Enhanced event-driven architecture:
-  - Transitioned to **multiple active consumers** for better scalability.
-  - Applied **topic-based architecture** for event categorization and efficiency.  
-- Implemented **Logging** and **Tracing** for better debugging and monitoring :
-  - captured **HTTP requests** from the API gateway.
-  - captured **Event Driven Messages** from the Message Broker.
-  - join all the logs into make a **Journey Transaction**.
-  
+- Developed and deployed **OTP feature** for secure user balance withdrawals.
+- Implemented a **platform fee** mechanism to support platform monetization.
+- Automated **tax calculation and collection** to ensure compliance with local regulations.
+- Designed and built a **document management system** to support company KYC/document verification.
+- Introduced a **local product flagging system** to promote domestic goods.
+- Launched a new **flight booking domain**, expanding platform offerings to the travel sector.
+- **Optimized event-driven architecture**:
+  - Transitioned from a **single consumer** model to **multi-consumer support** for better throughput.
+  - Introduced **topic-based routing** for more modular event processing.
+- **Implemented advanced logging and tracing mechanisms**:
+  - Captured and correlated **HTTP requests** from the API Gateway.
+  - Tracked **event-driven messages** from message brokers.
+  - Built **transaction journey logging** to visualize and debug end-to-end flows across services.
+
 ---
 
 ### **Backend Developer**  
 **PT Indo Fin Tek** — Jakarta  
-**Feb 2020 – Nov 2020**
+📅 *Feb 2020 – Nov 2020*
 
-- Developed APIs for integration with:
-  - **AFPI** (Asosiasi Fintech Pendanaan Bersama Indonesia)
-  - **OJK** (Otoritas Jasa Keuangan)
-- Migrated databases to improve performance and scalability.
-- Maintained integrations with various **third-party APIs**.
-- Built a system to **monitor application performance** in real-time.
+- Developed secure APIs for integration with:
+  - **AFPI** (*Asosiasi Fintech Pendanaan Bersama Indonesia*)
+  - **OJK** (*Otoritas Jasa Keuangan*)
+- Migrated critical databases to enhance scalability and maintainability.
+- Maintained and supported key **third-party API integrations**.
+- Designed and implemented a system for **real-time application performance monitoring**.
 
 ---
 
 ### **Backend Programmer**  
 **PT Indonesia Indicator** — Jakarta  
-**Nov 2017 – Jan 2020**
+📅 *Nov 2017 – Jan 2020*
 
-- Scraped data from **news sites, Social Media**, and **trending topics**, and **e-commerce platforms**.
-- Built **RESTful APIs** for app-backend communication.
+- Built scalable scrapers for collecting data from **news portals**, **social media**, and **e-commerce platforms**.
+- Developed robust **RESTful APIs** for frontend-backend integration to support various data products.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category         | Tools/Technologies                        |
-|------------------|-------------------------------------------|
-| Languages        | Golang, PHP, Rust, Python, Bash |
-| Databases        | MySQL, PostgreSQL, MongoDB |
-| Message Brokers  | RabbitMQ, Kafka, Beanstalk |
-| Caching          | Redis                                     |
-| Search Engine    | Elasticsearch                             |
-| API Gateway      | Kong                                      |
-| Operating System | Linux / Unix                              |
-| Scheduling       | Cron Jobs                                 |
-
+| **Category**      | **Tools / Technologies**                          |
+|------------------|---------------------------------------------------|
+| **Languages**     | Golang, PHP, Rust, Python, Bash                   |
+| **Databases**     | MySQL, PostgreSQL, MongoDB                        |
+| **Message Brokers** | RabbitMQ, Kafka, Beanstalk                      |
+| **Caching**       | Redis                                             |
+| **Search Engine** | Elasticsearch                                     |
+| **API Gateway**   | Kong                                              |
+| **OS**            | Linux / Unix                                      |
+| **Scheduling**    | Cron Jobs                                         |
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Information Technology**  
-Indraprasta PGRI University, 2013 – 2017
+**Indraprasta PGRI University**  
+📅 *2013 – 2017*
 
 ---
 
 ## 🏠 Address
 
-Darmawangsa Residence, Cluster Sriwijaya Blok SA-3 No 41  
+Darmawangsa Residence  
+Cluster Sriwijaya Blok SA-3 No. 41  
 Bekasi 17510, Indonesia
-
