@@ -6,24 +6,24 @@
 ---
 
 ## 🛠️ Technical Stack  
-**Languages**: Golang, PHP, Node.js, Python, Bash  
-**Databases**: MySQL, PostgreSQL, Elasticsearch, Redis  , MongoDB
+**Languages**: Golang, PHP,Python, Rust, Bash, Shell Scripts
+**Databases**: MySQL, PostgreSQL, Elasticsearch, Redis, MongoDB
 **Event-Driven**: RabbitMQ, Kafka, Beanstalk
-**APIs/DevOps**: RESTful APIs, Kong API Gateway, Linux/Unix, Cron  
-**Financial Systems**: OTP Security, Tax Automation, Platform Fees  
+**APIs/DevOps**: RESTful APIs, GraphQL, Kong API Gateway, Linux/Unix, Cron  
+**Financial Systems**: OTP Security, Tax Automation, Platform Fees, Payments
 
 ---
 
 ## 💼 Key Projects  
 
-### 🏦 Financial Platform Features *(PT Brillant Ecommerce)*  
+### 🏦 Financial Platform Features *(PT Brililant Ecommerce Berjaya)*  
 - **OTP for Balance Withdrawal**  
   - Implemented secure OTP validation using Redis (reduced fraud by 30%).  
 - **Tax & Platform Fee Automation**  
   - Automated tax calculations for transactions, saving 200+ manual hours/month.  
 - **Company Document Management**  
   - Built a document upload/verification system with Elasticsearch indexing.  
-
+b
 ### ✈️ Flight Booking Microservice *(New Domain Launch)*  
 - Designed a Golang-based service integrated with Kong API Gateway.  
 - Handled 10K+ RPM at launch.  
@@ -35,9 +35,9 @@
 ---
 
 ## 📈 Career Highlights  
-- **PT Brillant Ecommerce** (Dec 2020 – Present): Scaled backend systems for e-commerce.  
-- **PT Indo Fin Tek** (Feb 2020 – Nov 2020): Built regulatory APIs for OJK/AFPI integrations.  
-- **PT Indonesia Indicator** (Nov 2017 – Jan 2020): Developed data scraping tools and REST APIs.  
+- **PT Brillant Ecommerce Berjaya (Mbizmarket)** (Dec 2020 – Present): Scaled backend systems for e-commerce.  
+- **PT Indo Fin Tek (Dompet Kilat)** (Feb 2020 – Nov 2020): Built regulatory APIs for OJK/AFPI integrations.  
+- **PT Indonesia Indicator (Ebdesk)** (Nov 2017 – Jan 2020): Developed data scraping tools and REST APIs.  
 
 ---
 
