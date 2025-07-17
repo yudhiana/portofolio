@@ -50,13 +50,17 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** Golang, PHP, Rust, Python, Bash, Shell Script
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Message Brokers:** RabbitMQ, Kafka, Beanstalk  
-**Caching:** Redis
-**Search Engine:** Elasticsearch  
-**API Gateway:** Kong  
-**Other:** Linux/Unix, Cron Jobs
+| Category         | Tools/Technologies                        |
+|------------------|-------------------------------------------|
+| Languages        | Golang, PHP, NodeJS, Python, Bash         |
+| Databases        | MySQL, PostgreSQL                         |
+| Message Brokers  | RabbitMQ                                  |
+| Caching          | Redis                                     |
+| Search Engine    | Elasticsearch                             |
+| API Gateway      | Kong                                      |
+| Operating System | Linux / Unix                              |
+| Scheduling       | Cron Jobs                                 |
+
 
 ---
 
